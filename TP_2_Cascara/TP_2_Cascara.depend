@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1525648901 source:c:\users\miguel ramos\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525648257 c:\users\miguel ramos\desktop\tp_2_cascara\funciones.h
+
+1525648146 source:c:\users\miguel ramos\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1524406691 c:\users\miguel ramos\desktop\tp_2_cascara\utn.h
+
+1524406687 source:c:\users\miguel ramos\desktop\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1525650356 source:f:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525648258 f:\tp_2_cascara\funciones.h
+
+1524406692 f:\tp_2_cascara\utn.h
+
+1525648902 source:f:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1524406688 source:f:\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1525997070 source:d:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525648258 d:\tp_2_cascara\funciones.h
+
+1524406692 d:\tp_2_cascara\utn.h
+
+1525997232 source:d:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1524406688 source:d:\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
